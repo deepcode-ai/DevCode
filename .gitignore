@@ -1,0 +1,9 @@
+node_modules/
+.eslintcache
+.stylelintcache
+dist/
+*.tsbuildinfo
+.DS_Store
+.env
+.idea/
+playwright/**/*.webm
